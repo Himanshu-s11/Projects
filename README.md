@@ -1,2 +1,2 @@
 # Projects
-Developing project using Java, SpringBoot and Angular.
+Developing project using Java swing.
